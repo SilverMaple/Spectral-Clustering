@@ -7,9 +7,6 @@ Dolphins Community Detetction, Two Circles Problem (Spectral clustering from scr
    #### Clustered
    ![alt text](https://github.com/akjayant/Spectral-Clustering/blob/master/dolphins_unclustered.png)
 
-#### Two circles clustred
-![alt text](https://github.com/akjayant/Spectral-Clustering/blob/master/two_circles.png)
-
 data: data.zip
 ### Identify Player Team based on Interaction - Barca_madrid.ipynb (everything form scratch) : 
 Barca - Real Madrid clustering problem (everything from scratch - eigenvalues,eigenvecs, spectral clusetring)
